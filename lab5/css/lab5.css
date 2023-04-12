@@ -1,0 +1,27 @@
+/*
+*       Author:				Justin Dubin
+*		Date:				2.21.22
+*		Last revised:		2.21.22
+*   	Assignment:			Lab 5
+*		Purpose:			Beginning CSS
+*/
+
+body {
+    background-color: #2e6e12;
+    color: #fffc7c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    background-color: #164900;
+    width: 800px;
+    margin: auto;
+    padding: 10px 15px;
+    border-width: 4px;
+    border-color: white;
+    border-style: solid;
+}
+
+h2 {
+    font-family: oblique;
+}
